@@ -1556,7 +1556,7 @@ i.mce-i-resize {
 	opacity: .6;
 	filter: alpha(opacity=60);
 	zoom: 1;
-	background: #fff url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/img/loader.gif') no-repeat center center
+	background: #fff url('/wp-content/themes/Divi/css/tinymce-skin/img/loader.gif') no-repeat center center
 }
 .mce-throbber-inline {
 	position: static;
@@ -1564,15 +1564,15 @@ i.mce-i-resize {
 }
 @font-face {
 	font-family: 'tinymce';
-	src: url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.eot');
-	src: url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.eot#iefix') format('embedded-opentype'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.woff') format('woff'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.ttf') format('truetype'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.svg#tinymce') format('svg');
+	src: url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.eot');
+	src: url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.woff') format('woff'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.ttf') format('truetype'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce.svg#tinymce') format('svg');
 	font-weight: normal;
 	font-style: normal
 }
 @font-face {
 	font-family: 'tinymce-small';
-	src: url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.eot');
-	src: url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.eot#iefix') format('embedded-opentype'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.woff') format('woff'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.ttf') format('truetype'), url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.svg#tinymce') format('svg');
+	src: url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.eot');
+	src: url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.woff') format('woff'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.ttf') format('truetype'), url('/wp-content/themes/Divi/css/tinymce-skin/fonts/tinymce-small.svg#tinymce') format('svg');
 	font-weight: normal;
 	font-style: normal
 }

@@ -31,31 +31,31 @@
 ------------------------------------------------------------------------------*/
 @font-face {
 	font-family: 'ETmodules';
-	src:url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot');
-	src:url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot#iefix') format('embedded-opentype'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff') format('woff'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf') format('truetype'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg#et-modules') format('svg');
+	src:url('/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot');
+	src:url('/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff') format('woff'),
+		url('/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf') format('truetype'),
+		url('/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg#et-modules') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'etbuilder';
-	src:url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/builder.eot');
-	src:url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/builder.eot#iefix') format('embedded-opentype'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/builder.woff') format('woff'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/builder.ttf') format('truetype'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/builder.svg#et-builder') format('svg');
+	src:url('/wp-content/themes/Divi/core/admin/fonts/builder.eot');
+	src:url('/wp-content/themes/Divi/core/admin/fonts/builder.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/themes/Divi/core/admin/fonts/builder.woff') format('woff'),
+		url('/wp-content/themes/Divi/core/admin/fonts/builder.ttf') format('truetype'),
+		url('/wp-content/themes/Divi/core/admin/fonts/builder.svg#et-builder') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'CodeSnippet';
-	src: url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.woff') format('woff'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.ttf') format('truetype'),
-		url('http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.svg') format('svg');
+	src: url('/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.woff') format('woff'),
+		url('/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.ttf') format('truetype'),
+		url('/wp-content/themes/Divi/core/admin/fonts/epanel/code-snippet.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -733,7 +733,7 @@ body.rtl.et-db:not(.et-fb-no-rtl) .et-core-tabs li.ui-state-default {
   6.0 - Loader
 ------------------------------------------------------------------------------*/
 .et-core-loader {
-	background: transparent url("http://andrecyrpotential.github.io/potential/wp-content/themes/Divi/core/admin/images/loader.gif") 8px 9px no-repeat;
+	background: transparent url("/wp-content/themes/Divi/core/admin/images/loader.gif") 8px 9px no-repeat;
 	transition: background, box-shadow 0.3s;
 	height: 50px;
 	width: 50px;
