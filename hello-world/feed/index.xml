@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=78" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=4956" rel="self" type="application/rss+xml" />
 	<link>http://andrecyrpotential.github.io/potential/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Jun 2023 14:37:21 +0000</lastBuildDate>
