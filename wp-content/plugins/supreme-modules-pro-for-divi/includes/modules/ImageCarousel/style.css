@@ -8,6 +8,9 @@
     width: 40px;
     background-image: none;
     background-size: initial;
+    display: flex;
+    align-items: center;
+    margin-top: -30px;
 }
 
 .dsm_image_carousel .swiper-button-prev {
@@ -41,15 +44,10 @@
     -moz-osx-font-smoothing: grayscale;
     line-height: 1;
     text-transform: none;
+    content: attr(data-icon);
+    margin: 0 auto;
 }
 
-.dsm_image_carousel .swiper-button-prev:before {
-    content: "\34";
-}
-
-.dsm_image_carousel .swiper-button-next:before {
-    content: "\35";
-}
 
 .dsm_image_carousel .swiper-button-prev:after,
 .dsm_image_carousel .swiper-button-next:after {
@@ -70,7 +68,8 @@
     width: 100%;
 }
 
-.dsm_image_carousel .swiper-pagination-bullets .swiper-pagination-bullet {
+.dsm_image_carousel .swiper-pagination-bullets .swiper-pagination-bullet,
+.et-db #et-boc .et-l .dsm_image_carousel .swiper-pagination-bullets .swiper-pagination-bullet {
     margin: 0 4px;
 }
 
@@ -107,6 +106,11 @@
     width: 1080px;
 }
 
+.dsm_image_carousel .dsm_image_carousel_item a {
+    width: 100%;
+    display: inline-block;
+}
+
 .dsm_image_carousel_infinite_scroll .swiper-wrapper {
     transition-timing-function: linear !important;
 }
@@ -119,42 +123,49 @@
     display: none;
 }
 
+/*Fix Divi Builder Selector*/
+.et-db #et-boc .et-l {}
+
 /*Thumbs*/
 
 .gallery-top {
     height: 80%;
     width: 100%;
-  }
+}
+
 .gallery-thumbs {
-      height: 20%;
-      box-sizing: border-box;
-      padding: 10px 0;
-      
-    }
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
 
-    .gallery-thumbs .swiper-slide {
-      width: 25%;
-      height: 100%;
-      opacity: 0.4;
-    }
+}
 
-    .gallery-thumbs .swiper-slide-thumb-active {
-      opacity: 1;
-    }
+.gallery-thumbs .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 0.4;
+}
+
+.gallery-thumbs .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
 .gallery-thumbs .swiper-slide .dsm-image-carousel-thumbnails {
     background: no-repeat 50%;
-  background-image: none;
-  background-size: auto;
-background-size: cover;
-height: 100%;
-position: relative;
-padding-bottom: 75%;
-  }
+    background-image: none;
+    background-size: auto;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+    padding-bottom: 75%;
+}
+
 .gallery-thumbs img {
     object-fit: cover;
     width: 200px;
-  height: 200px;
+    height: 200px;
 }
+
 @media only screen and (max-width: 768px) {
     .dsm_image_carousel .swiper-button-prev {
         left: -36px;

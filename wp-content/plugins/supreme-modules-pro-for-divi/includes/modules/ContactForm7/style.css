@@ -69,13 +69,9 @@
     pointer-events: none;
 }
 
-.dsm_contact_form_7 .wpcf7-form-control.wpcf7-date {
-    font-family: inherit;
-}
+.dsm_contact_form_7 .wpcf7-form-control.wpcf7-date {}
 
-.dsm_contact_form_7 .wpcf7-form-control.wpcf7-date::-webkit-calendar-picker-indicator {
-    background: none;
-}
+.dsm_contact_form_7 .wpcf7-form-control.wpcf7-date::-webkit-calendar-picker-indicator {}
 
 .dsm_contact_form_7 .wpcf7-not-valid-tip,
 .dsm_contact_form_7 .wpcf7-validation-errors {

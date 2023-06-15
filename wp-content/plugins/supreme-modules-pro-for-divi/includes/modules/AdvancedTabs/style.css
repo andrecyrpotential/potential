@@ -36,3 +36,8 @@
 .dsm-advanced-tabs-container .dsm-advanced-tabs-content-wrapper .dsm-content-wrapper.dsm-active {
   display: flex;
 }
+
+.dsm-advanced-tabs-container .dsm-advanced-tabs-content-wrapper .dsm-inner-content-wrapper,
+.dsm-advanced-tabs-container .dsm-advanced-tabs-content-wrapper .dsm-inner-content {
+  width: 100%;
+}

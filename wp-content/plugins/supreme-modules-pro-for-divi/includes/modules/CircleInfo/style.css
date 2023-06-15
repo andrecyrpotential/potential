@@ -11,7 +11,9 @@
   position: relative;
 }
 
-.dsm-circle-info-container .dsm-circle-info-content .dsm-circle-info-content-wrapper {
+.dsm-circle-info-container
+  .dsm-circle-info-content
+  .dsm-circle-info-content-wrapper {
   top: 50%;
   right: 0;
   bottom: 0;
@@ -26,7 +28,9 @@
   text-align: center;
 }
 
-.dsm-circle-info-container .dsm-circle-info-content .dsm-circle-info-content-wrapper.dsm-circle-info-item-active {
+.dsm-circle-info-container
+  .dsm-circle-info-content
+  .dsm-circle-info-content-wrapper.dsm-circle-info-item-active {
   opacity: 1;
   visibility: visible;
 }
@@ -45,9 +49,9 @@
   transform: translate(-50%, -50%);
   z-index: 99;
   cursor: pointer;
-  -webkit-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
   border-style: solid;
 }
 
@@ -91,12 +95,14 @@
   overflow: hidden;
 }
 
-.dsm-circle-info-container .dsm-circle-info-content-wrapper .et_pb_button_wrapper {
+.dsm-circle-info-container
+  .dsm-circle-info-content-wrapper
+  .et_pb_button_wrapper {
   margin-top: 15px;
 }
 
 /*fix vb fix*/
 .et-db #et-boc .et-l #et-fb-app .dsm_circle_info_child,
 .et-db #et-boc .et-l #et-fb-app .dsm_circle_info_child {
-  display: none
+  display: none;
 }

@@ -11,7 +11,9 @@
     -ms-flex-align: start;
     align-items: flex-start;
 }
-
+.dsm_pricelist .et_pb_module.dsm_pricelist_child {
+    margin-bottom: 0;;
+}
 .dsm_pricelist_item_wrapper {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;

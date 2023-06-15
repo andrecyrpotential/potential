@@ -522,6 +522,105 @@
 			</attributes>
 		</shortcode>
 		<shortcode>
+			<tag>dsm_content_timeline_child</tag>
+			<attributes>
+				<attribute>admin_title</attribute>
+				<attribute type="media-url">dsm_image</attribute>
+				<attribute>dsm_title</attribute>
+				<attribute encoding="allow_html_tags">dsm_content</attribute>
+				<attribute type="media-url">dsm_point_image</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="link">button_url</attribute>
+				<attribute>dsm_opposite_text</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_text_path</tag>
+			<attributes>
+				<attribute>dsm_path_text</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_social_share_buttons_child</tag>
+			<attributes>
+				<attribute>admin_title</attribute>
+				<attribute>dsm_custom_label</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_advanced_tabs_child</tag>
+			<attributes>
+				<attribute>admin_title</attribute>
+				<attribute>dsm_title</attribute>
+				<attribute type="link">dsm_title_url</attribute>
+				<attribute>dsm_subtitle</attribute>
+				<attribute type="link">dsm_subtitle_url</attribute>
+				<attribute type="media-url">dsm_image</attribute>
+				<attribute>dsm_content_title</attribute>
+				<attribute type="media-url">dsm_content_image</attribute>
+				<attribute encoding="allow_html_tags">dsm_content</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="link">button_url</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_faq_child</tag>
+			<attributes>
+				<attribute>admin_title</attribute>
+				<attribute>dsm_title</attribute>
+				<attribute type="media-url">dsm_open_child_image</attribute>
+				<attribute type="media-url">dsm_close_child_image</attribute>
+				<attribute encoding="allow_html_tags">dsm_content</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_step_flow</tag>
+			<attributes>
+				<attribute>dsm_title</attribute>
+				<attribute>dsm_badge</attribute>
+				<attribute type="media-url">dsm_dir_image</attribute>
+				<attribute type="media-url">dsm_image</attribute>
+				<attribute encoding="allow_html_tags">dsm_content</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="link">button_url</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_svg_animation</tag>
+			<attributes>
+				<attribute type="media-url">dsm_upload_svg</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_filterable_gallery</tag>
+			<attributes>
+				<attribute type="media-ids">gallery_ids</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>dsm_circle_info_child</tag>
+			<attributes>
+				<attribute>admin_title</attribute>
+				<attribute>dsm_circle_info_title</attribute>
+				<attribute>dsm_content_title</attribute>
+				<attribute type="media-url">image</attribute>
+				<attribute>alt</attribute>
+				<attribute encoding="allow_html_tags">dsm_circle_info_content</attribute>
+				<attribute type="media-url">dsm_content_image</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="link">button_url</attribute>
+				<attribute type="media-url">background_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
 			<tag>et_pb_text</tag>
 			<attributes>
 				<attribute>dsm_modules_readmore_more_link_text</attribute>

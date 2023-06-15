@@ -2,6 +2,7 @@
 .dsm-post-carousel .swiper-container-cube .swiper-slide:not(.swiper-slide-active) {
     z-index: 0;
 }
+
 .dsm-post-carousel-item {
     border: 0 solid;
 }
@@ -32,13 +33,13 @@
     text-align: center;
     width: 100%;
 }
-  
+
 .dsm_post_carousel .swiper-pagination .swiper-pagination-bullets {
     bottom: -40px;
     left: 0;
     width: 100%;
 }
-  
+
 .dsm_post_carousel .swiper-pagination .swiper-pagination-bullet {
     margin: 0 4px;
     width: 8px;
@@ -50,14 +51,14 @@
     transform: translateX(-50%);
     white-space: nowrap;
 }
-  
+
 .dsm_post_carousel .swiper-pagination .swiper-pagination-bullet:last-child {
     margin-right: 0
 }
-  
+
 .dsm_post_carousel .swiper-button-next,
 .dsm_post_carousel .swiper-button-prev {
-    background-image: none!important;
+    background-image: none !important;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,27 +78,32 @@
     font-family: ETmodules;
     box-sizing: border-box;
 }
-  
+
 .dsm_post_carousel .swiper-button-prev {
     left: -50px
 }
+
 .dsm_post_carousel .swiper-button-next {
     right: -50px
 }
-  
+
 .swiper-button-next.swiper-button-disabled,
 .swiper-button-prev.swiper-button-disabled {
     cursor: pointer;
     pointer-events: all
 }
 
-@media (max-width: 980px) {
+.dsm-readmore-btn {
+    display: inline-block;
 }
+
+@media (max-width: 980px) {}
 
 @media (max-width: 767px) {
     .dsm_post_carousel .swiper-button-prev {
         left: -25px
     }
+
     .dsm_post_carousel .swiper-button-next {
         right: -25px
     }

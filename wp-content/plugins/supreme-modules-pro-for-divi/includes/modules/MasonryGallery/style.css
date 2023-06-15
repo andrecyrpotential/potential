@@ -22,6 +22,10 @@
 	overflow: hidden;
 }
 
+.dsm_masonry_gallery_svg img {
+	width: 100%;
+}
+
 .dsm_masonry_gallery .dsm-overlay:before,
 .et-db #et-boc .et-l .dsm_masonry_gallery .dsm-overlay:before {
 	content: none;
@@ -69,4 +73,39 @@
 
 .dsm_masonry_zoom_hover .grid-item img {
 	transition: transform .4s ease-in-out;
+}
+
+
+.et_overlay {
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: hsla(0, 0%, 100%, .9);
+	opacity: 0;
+	pointer-events: none;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+	border: 1px solid #e5e5e5;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-font-smoothing: antialiased
+}
+
+.et_overlay:before {
+	color: #2ea3f2;
+	content: "\E050";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	font-size: 32px;
+	-webkit-transition: all .4s;
+	transition: all .4s
 }

@@ -1,0 +1,142 @@
+Version 1.1.0 ( October 27, 2021 )
+- Introduced CTP Grid Module.
+- Introduced ACF support extension.
+- Added: Blog Grid - Margin option for Icon/Image.
+- Added: Blog grid - Use Image as Icon at Icon Settings.
+- Added: Blog Carousel - Use Image as Icon  at Icon Settings.
+- Added: Blog Carousel - Margin option for Icon/Image.
+- Fixed: Remove inherited margin of divi from all Child items of modules.
+- Fixed: Data Table - Auto space issue.
+- Fixed: Floating issue of Flip box Module.
+- Added: Get Admin Notice when divi theme/builder not activate.
+- Added: Import/Export functionality of Dashboard Settings.
+- Added: Blog Carousel - background scale on hover.
+- Added: Blog Grid - background scale on hover.
+
+Version 1.0.11 ( October 13, 2021 )
+- Improved Advanced Data Table, now we can use comma in table column.
+- Fixed Advanced Data Table missing row in builder.
+- Fixed Advanced Data Table special characters display at frontend.
+- Added Advanced Data Table error handling functions.
+- Fixed Security issues.
+- Improved Instagram Carousel settings order for users.
+- Improved Instagram Carousel image and icon settings for both use at the same time.
+- Added Avanced Image Gallery custom html support for image description and caption.
+- Added Packery Gallery custom html support for image descriotion and caption.
+- Added Justified Gallery custom html support for image descriotion and caption.
+- Added settings and license links at plugin dashboard.
+
+Version 1.0.10 ( September 14, 2021 )
+- Fixed: Advanced Data Table – Remove empty line from front-end and VB.
+- Fixed: Advanced Data Table – CSV delimiter dynamic convertion.
+- Fixed: Blog Grid – ajax pagination.
+- Fixed: Image Carousel – Arrow pointer event issue on top & bottom position.
+- Fixed: Divi Content Carousel – Arrow pointer event issue on top & bottom position.
+- Fixed: Instagram Carousel – Arrow pointer event issue on top & bottom position.
+- Fixed: Blog Carousel – Arrow pointer event issue on top & bottom position.
+- Fixed: Divi Testimonial Carousel – Arrow pointer event issue on top & bottom position.
+- Added: Divi Image Carousel – Dot navigation for cube & fade effect.
+- Added: Divi Image Carousel – Large active dot style option.
+- Added: Divi Testimonial Carousel – Large active dot style option.
+
+Version 1.0.9 ( August 19, 2021 )
+- Added: Dashboard settings.
+- Added: Advanced Blurb Title Link URL option.
+- Added: Add Image Alternative Tag option.
+- Changed: Image Accordion change “Animation settings” title to “Text Animation Settings”.
+- Fixed: ImageCarousel arrow hover issue.
+- Fixed: ContentCarousel arrow hover issue.
+- Fixed: TestimonialCarousel arrow hover issue.
+- Fixed: BlogCarousel arrow hover issue.
+- Fixed: InstagramCarousel arrow hover issue.
+- Fixed: AnimatedHeading issue for new Divi version
+
+Version 1.0.8 ( July 14, 2021 )
+- Fixed: Header request issue – loader.php.
+
+Version 1.0.7 ( July 06, 2021 )
+- New module: Advanced Preson
+- AdvancedDataTable: CSV upload option added
+- AdvancedDataTable: Pagination dot color settings fixed
+- AdvancedDataTable: Responsive issue fixed
+- AdvancedDataTable: Initial table rendering issue on VB fixed
+- DataTable: Badge option added
+- DataTable: Responsive issue fixed
+- DataTable: CSV textarea string issue fixed
+- DataTable: Table header VB markup issue fixed
+- DataTable: Single item icon option added
+- Module control: Added module disable/enable dashboard
+- License Navaigation: Changed the license dashboard navigation to Diviflash page
+- BlogCarousel: VB style issue on tablet and mobile
+- BlogCarousel: Tag element display control issue fixed
+- BlogCarousel: Module rendering issue on VB fixed
+- BlogCarousel: Icon style issue
+- BlogCarousel: Fixed image size issue
+- BlogGrid: Tag element display control issue fixed
+- BlogGrid: Module rendering issue on VB fixed
+- BlogGrid: Icon style issue
+- BlogGrid: Fixed image size issue
+- Advanced Blub: Badge Icon hide when badge option disable
+- Image Accordion: Item, button, content box shadow transition fixed
+- Image Accordion: Overlay Hover option add
+- Instagram Gallery: User info, Profile picture, Image, Load More button extra label remove
+- Instagram Gallery: Add AutoPlay Video Control at Instagram Gallery and Instagram Carousel
+
+Version 1.0.6 ( Apr 29, 2021 )
+- Fixed : PostGrid module style issue on VB on tablet and phone view.
+- Fixed : PostCarousel module style on VB on tablet and phone view.
+- Fixed : LogoCarousel Tablet and Phone view layout issue on VB.
+- Fixed : PostGrid pagination icon position issue.
+- Added : Data Table module.
+- Added : Advanced Data Table Module.
+
+Version 1.0.5 ( Mar 28, 2021 )
+- Fixed: BlogCarousel element hover selector.
+- Fixed: BlogGrid element hover selector.
+- Fixed: BlogCarousel meta vertical alignment issue.
+- Fixed: BlogGrid meta vertical alignment issue.
+- Fixed: Initial load issue of all Carousel.
+- Fixed: BlogGrid module container height issue on ajax load.
+- Added: BlogCarousel Custom text element.
+- Added: BlogGrid Custom text element.
+- Added: BlogGrid & BlogCarousel author image margin.
+- Added: Advanced Image Gallery first nav custom text option.
+- Added: Divider element for BlogCarousel & BlogGrid modules.
+- Added: Scroll to content area feature for tablet and mobile device into AdvancedTab.
+
+Version 1.0.4 ( Mar 15, 2021 )
+- Fixed: tinymce issue on VB.
+- Fixed: module icon style issue.
+- Added: BlogGrid Module.
+- Added: BlogCarousel Module.
+- Added: Before After Image Module.
+- Added: Image Accordion Module.
+
+Version 1.0.3 ( Feb 01, 2021 )
+- Fixed: Testimonial Carousel border transition.
+- Fixed: Image Hover title default font-size.
+- Fixed: Image Hover scale transition issue.
+- Fixed: WPForms dropdown style issue.
+- Fixed: WPForms select style issue.
+- Fixed: Packery Gallery lightbox content on ajax-load.
+- Added: Logo Carousel arrow margin control.
+- Added: Image Carousel lightbox.
+- Added: Content Carousel lightbox.
+- Added: Image Gallery load more button icon.
+- Added: Justified Gallery load more button icon.
+- Added: Packery Gallery load more button icon.
+- Added: Testimonial Carousel dots responsive settings.
+
+Version 1.0.2 ( Jan 26, 2021 )
+- Module Added: Advanced Tab
+- Module Added: Business Hours
+- Module Added: Instagram Gallery
+- Module Added: Instagram Carousel
+- Updated: new mask added in image mask module
+
+Version 1.0.1 ( Dec 01, 2020 )
+- Module Added: Image Hover.
+- Module Added: Advanced Blurb.
+- Fetaure Added: Advanced image gallery lightbox download button disable option.
+- Fetaure Added: Justified gallery lightbox download button disable option.
+- Fetaure Added: Packery gallery lightbox download button disable option.

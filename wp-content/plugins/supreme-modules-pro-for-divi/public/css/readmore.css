@@ -29,6 +29,12 @@
     overflow: hidden;
 }
 
+.dsm-readmore+[data-readmore-toggle],
+.dsm-readmore [data-readmore] {
+    display: block;
+    width: 100%;
+}
+
 .dsm-readmore-shadow[data-readmore]:after,
 .dsm-readmore-shadow [data-readmore]:after {
     -webkit-backface-visibility: hidden;

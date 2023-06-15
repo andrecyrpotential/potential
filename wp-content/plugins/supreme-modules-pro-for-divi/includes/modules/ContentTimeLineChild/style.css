@@ -1,7 +1,16 @@
+/*Background*/
+.dsm-content-timeline-content-wrapper,
+.dsm-content-timeline-content-wrapper::before {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 /***********General Timeline Style *****************/
 .dsm-content-timeline-items-wrapper .dsm-content-timeline-date.dsm-desktop {
   height: max-content;
 }
+
 .dsm-content-timeline-items-wrapper .dsm-icon-wrapper {
   line-height: 1;
 }
@@ -15,12 +24,9 @@
   margin-bottom: 10px;
 }
 
-.dsm-content-timeline-items-wrapper .et_pb_button_module_wrapper {
-  margin-top: 10px;
-}
-
 .dsm-content-timeline-items-wrapper .dsm-content-timeline-content-wrapper .dsm-timeline-content .et_pb_button {
   display: inline-block;
+  margin-top: 15px;
 }
 
 .dsm-content-timeline-items-wrapper .dsm-icon,
@@ -46,6 +52,7 @@
   will-change: transform;
   overflow: visible !important;
 }
+
 /*********** Timeline Left Style *****************/
 
 .dsm-content-timeline-items-wrapper.dsm-left .dsm-content-timeline-item-wrapper {
