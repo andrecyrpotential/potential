@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Potential Education Group	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=19571" rel="self" type="application/rss+xml" />
+	Comments for Potential Education Company	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=4445" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Jun 2023 14:37:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jun 2023 16:22:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -23,7 +23,7 @@
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Wed, 14 Jun 2023 14:37:21 +0000</pubDate>
+		<pubDate>Wed, 14 Jun 2023 16:22:39 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.

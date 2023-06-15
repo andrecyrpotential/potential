@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Potential Education Group</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=19585" rel="self" type="application/rss+xml" />
+	<title>Uncategorized | Potential Education Company</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=4469" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Jun 2023 14:37:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jun 2023 16:22:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[andrecyr]]></dc:creator>
-		<pubDate>Wed, 14 Jun 2023 14:37:21 +0000</pubDate>
+		<pubDate>Wed, 14 Jun 2023 16:22:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
